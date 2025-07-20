@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Welcome to my github profile\n
+Welcome to my github profile
 I'm a computer science student at Universitas Syiah Kuala and have lot insterested in tech and math

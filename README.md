@@ -1,4 +1,4 @@
-## Hello Everyone 
+## Hello Everyone!!!
 
 <!--
 **fathrmhd/fathrmhd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Welcome to my github profilw
-I'm a computer science student at Universitas Syiah Kuala. I'm insterested in tech and math
+Welcome to my github profile\n
+I'm a computer science student at Universitas Syiah Kuala and have lot insterested in tech and math

@@ -2,7 +2,7 @@
 
 
 ### ♦️About Me
-- I'm an undergraduate student at Universitas Syiah Kuala, majoring in Computer Science<br>
+- I'm an undergraduate student, majoring in Computer Science<br>
 - In my free time, I solve problem on LeetCode, Hackerrank and TLX
 - Currently, I enjoy analyzing data and solving math problems.
 
